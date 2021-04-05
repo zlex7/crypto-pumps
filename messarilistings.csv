@@ -1,0 +1,290 @@
+Event,Asset,Ticker,Importance,Status,Category,Subcategory,Last Updated,Event Date,Soft Date
+WazirX Listing,Band Protocol,BAND,Low,Completed,Token Listing,Centralized Exchange Listing,2020-05-13,2020-05-12,--
+USDT Support,Compound,COMP,Medium,Completed,Token Listing,New Token,2020-04-28,2020-04-25,--
+Upbit Listing,Origin Protocol,OGN,Low,Completed,Token Listing,Centralized Exchange Listing,2020-04-13,2020-04-13,--
+Upbit Listing,Orchid,OXT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-10,2020-09-08,--
+Uniswap Listing,UMA,UMA,Medium,Completed,Token Listing,Decentralized Exchange Listing,2020-04-30,2020-04-28,--
+StakeWith.Us Support,Kyber Network,KNC,Low,Completed,Token Listing,Staking Service Listing,2020-05-05,2020-05-03,--
+Socios.com Fan Token Staking,Chiliz,CHZ,Medium,In-Progress,Token Listing,Centralized Exchange Listing,2020-10-05,2020-10-04,--
+Poloniex Listing,Polygon,MATIC,Low,Completed,Token Listing,Centralized Exchange Listing,2020-04-09,2020-04-09,--
+Pending Exchange Listings,Kadena,KDA,Low,Completed,Token Listing,Centralized Exchange Listing,2020-06-25,2020-06-25,--
+Origin Lists on Kyber,Origin Protocol,OGN,Low,Completed,Token Listing,Decentralized Exchange Listing,2020-03-15,2020-03-13,--
+Origin listed on Crypto.com,Origin Protocol,OGN,Low,Completed,Token Listing,Centralized Exchange Listing,2020-03-27,2020-03-25,--
+OKex Listing,Aragon Network,ANT,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-08-12,2020-08-11,--
+OKEx Listing,Avalanche,AVAX,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-22,2020-09-20,--
+OKEx Listing,Solana,SOL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-30,2020-09-29,--
+OKEx Listing,Filecoin,FIL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-03,2020-12-02,--
+OKEx Listing,NEAR Protocol,NEAR,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-03,2020-12-02,--
+OKEx Listing,NuCypher,NU,Low,Pending,Token Listing,Centralized Exchange Listing,2020-12-10,2020-12-09,--
+OKEx Listing,The Graph,GRT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-18,2020-12-17,--
+OKEx Listing,Props,PROPS,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-26,2021-01-26,--
+OKEx Listing,Flow,FLOW,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-22,2021-02-22,--
+OKEx Listing,Terra,LUNA,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-23,2021-02-23,--
+OKEx Listing,Chiliz,CHZ,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-03,2021-03-02,--
+OKEx Listing,Alpha Finance,ALPHA,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-03,2021-03-03,--
+OKEx Listing,Stacks,STX,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-04,2021-03-03,--
+OKEx Listing,Perpetual Protocol,PERP,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-10,2021-03-09,--
+OKEx Listing,Enjin Coin,ENJ,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-18,2021-03-17,--
+OKEx Listing,Polygon,MATIC,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-29,2021-03-28,--
+OKEx Listing,SKALE Network,SKL,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-29,2021-03-28,--
+OKEx Listing,Livepeer,LPT,Low,Completed,Token Listing,Centralized Exchange Listing,2021-04-03,2021-04-02,--
+OKCoin Staking Support,Polkadot,DOT,Low,Completed,Token Listing,Staking Service Listing,2021-03-31,2021-03-30,--
+OKCoin Lists Celo Dollar,Celo,CELO,Low,Completed,Token Listing,Centralized Exchange Listing,2020-08-21,2020-08-17,--
+OKCoin Listing,Stacks,STX,Medium,Completed,Token Listing,Centralized Exchange Listing,2021-01-17,2021-01-16,--
+OKCoin Listing,Avalanche,AVAX,Medium,Completed,Token Listing,Centralized Exchange Listing,2021-02-03,2021-02-02,--
+OKCoin Listing,Algorand,ALGO,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-11,2021-02-10,--
+OKCoin Listing,Maker,MKR,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-30,2021-03-29,--
+OKCoin Listing,Synthetix,SNX,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-30,2021-03-29,--
+OKCoin Delisting,Bitcoin Cash,BCH,Low,Pending,Token Listing,Centralized Exchange Listing,2021-02-19,2021-02-28,--
+Listed on Kyber Network,Loom Network,LOOM,Low,Completed,Token Listing,Decentralized Exchange Listing,2020-03-15,2020-03-05,--
+Ledger Wallet Support,Algorand,ALGO,Low,Completed,Token Listing,Wallet Integration,2020-04-09,2020-04-06,--
+Kyber Network Listing,Origin Protocol,OGN,Low,Completed,Token Listing,Decentralized Exchange Listing,2020-03-12,2020-03-11,--
+Kyber Network Listing,Loom Network,LOOM,Low,Completed,Token Listing,Decentralized Exchange Listing,2020-03-12,2020-03-05,--
+KuCoin Staking Support,Zilliqa,ZIL,Low,Completed,Token Listing,Staking Service Listing,2020-07-21,2020-06-17,--
+KuCoin Listing,Nervos Network,CKB,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-03,2020-09-02,--
+Kraken Staking Support,Polkadot,DOT,Low,Pending,Token Listing,Staking Service Listing,2020-06-14,2020-08-17,--
+Kraken Staking Support,Cosmos,ATOM,Low,Completed,Token Listing,Staking Service Listing,2020-08-18,2020-08-17,--
+Kraken Staking Support,Kusama,KSM,Low,Completed,Token Listing,Staking Service Listing,2020-11-23,2020-11-23,--
+Kraken Staking Support,Kava,KAVA,Low,Completed,Token Listing,Staking Service Listing,2020-12-15,2020-12-14,--
+Kraken Listing,Synthetix,SNX,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-15,2020-09-16,--
+Kraken Listing,Balancer,BAL,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-15,2020-09-16,--
+Kraken Listing,Curve,CRV,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-15,2020-09-16,--
+Kraken Listing,Kusama,KSM,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-15,2020-09-16,--
+Kraken Listing,Filecoin,FIL,Low,Pending,Token Listing,Centralized Exchange Listing,2020-10-13,2020-10-14,--
+Kraken Listing,yearn.finance,YFI,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-16,2020-10-14,--
+Kraken Listing,Uniswap,UNI,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-16,2020-10-14,--
+Kraken Listing,Aragon Network,ANT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-11-23,2020-11-23,--
+Kraken Listing,Keep Network,KEEP,Low,Completed,Token Listing,Centralized Exchange Listing,2020-11-23,2020-11-23,--
+Kraken Listing,Aave,AAVE,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-15,2020-12-14,--
+Kraken Listing,Decentraland,MANA,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-15,2020-12-14,--
+Kraken Listing,The Graph,GRT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-18,2020-12-17,--
+Kraken Listing,Flow,FLOW,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-27,2021-01-26,--
+Kraken Listing,Ocean Protocol,OCEAN,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-03,2021-03-02,--
+Huobi Perpetual Swaps Launch,Band Protocol,BAND,Low,Pending,Token Listing,Centralized Exchange Listing,2020-08-13,2020-08-13,--
+Huobi Listing,Origin Protocol,OGN,Low,Completed,Token Listing,Centralized Exchange Listing,2020-06-17,2020-06-17,--
+Huobi Listing,Aragon Network,ANT,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-08-12,2020-08-12,--
+Huobi Listing,Synthetix,SNX,Low,Completed,Token Listing,Centralized Exchange Listing,2020-08-20,2020-08-19,--
+Huobi Listing,Filecoin,FIL,Low,Pending,Token Listing,Centralized Exchange Listing,2020-10-14,2020-10-14,--
+Huobi Listing,NEAR Protocol,NEAR,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-14,2020-10-13,--
+Huobi Listing,SKALE Network,SKL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-01,2020-11-30,--
+Huobi Listing,Solana,SOL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-03,2020-12-02,--
+Huobi Listing,The Graph,GRT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-17,2020-12-17,--
+Huobi Listing,Orchid,OXT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-20,2020-12-20,--
+Huobi Listing,1inch,1INCH,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-24,2020-12-23,--
+Huobi Listing,Polygon,MATIC,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-06,2021-01-05,--
+Huobi Listing,Injective Protocol,INJ,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-19,2021-01-18,--
+Huobi Listing,Flow,FLOW,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-02,2021-02-01,--
+Huobi Listing,Enjin Coin,ENJ,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-15,2021-03-14,--
+Huobi Listing,Render Token,RNDR,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-25,2021-03-24,--
+Gemini Listing,Orchid,OXT,Low,Pending,Token Listing,Centralized Exchange Listing,2020-04-09,2020-04-23,--
+Gemini Listing,0x,ZRX,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Balancer,BAL,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Curve,CRV,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Ren,REN,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Synthetix,SNX,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Uniswap,UNI,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,yearn.finance,YFI,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Decentraland,MANA,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Kyber Network,KNC,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Maker,MKR,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Storj,STORJ,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-25,2020-09-24,--
+Gemini Listing,Filecoin,FIL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-14,2020-10-14,--
+Gemini Listing,Enjin Coin,ENJ,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-22,2021-03-21,--
+Gemini Listing,Loopring,LRC,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-22,2021-03-21,--
+Gemini Listing,Bancor,BNT,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-22,2021-03-21,--
+Gemini Listing,1inch,1INCH,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-22,2021-03-21,--
+Gemini Listing,SKALE Network,SKL,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-22,2021-03-21,--
+Gemini Listing,The Graph,GRT,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-22,2021-03-21,--
+Gemini Eth2 Staking Support,Ethereum,ETH,Medium,Pending,Token Listing,Staking Service Listing,2020-12-17,--,TBD
+Gemini Custody Support,Filecoin,FIL,Low,Pending,Token Listing,Custody Platform Listing,2020-02-24,--,TBD
+Gemini Custody Support,Numeraire,NMR,Low,Completed,Token Listing,Custody Platform Listing,2020-02-27,2019-02-18,--
+Gemini Custody Support,Keep Network,KEEP,Low,In-Progress,Token Listing,Custody Platform Listing,2020-09-25,2020-09-24,--
+Gemini Custody Support,Nexus Mutual,NXM,Low,Completed,Token Listing,Custody Platform Listing,2020-10-02,2020-10-01,--
+Gemini Custody Support,Aave,AAVE,Low,Completed,Token Listing,Custody Platform Listing,2020-10-07,2020-10-05,--
+Gemini Custody Support,Filecoin,FIL,Low,Completed,Token Listing,Custody Platform Listing,2020-10-14,2020-10-14,--
+Gemini Custody Support,Bancor,BNT,Low,Completed,Token Listing,Custody Platform Listing,2021-03-22,2021-03-21,--
+Gemini Custody Support,The Graph,GRT,Low,Completed,Token Listing,Custody Platform Listing,2021-03-22,2021-03-21,--
+Gemini Custody Support,1inch,1INCH,Low,Completed,Token Listing,Custody Platform Listing,2021-03-22,2021-03-21,--
+Gemini Custody Support,Loopring,LRC,Low,Completed,Token Listing,Custody Platform Listing,2021-03-22,2021-03-21,--
+Gemini Custody Support,SKALE Network,SKL,Low,Completed,Token Listing,Custody Platform Listing,2021-03-22,2021-03-21,--
+FTX Staking Support,FTX Token,FTT,Low,Completed,Token Listing,Staking Service Listing,2020-11-23,2020-11-22,--
+FTX Staking Support,Solana,SOL,Low,Completed,Token Listing,Staking Service Listing,2021-02-18,2021-02-17,--
+FTX Listing,Chiliz,CHZ,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-20,2020-10-19,--
+FTX Listing,The Graph,GRT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-19,2020-12-17,--
+FTX Listing,1inch,1INCH,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-24,2020-12-24,--
+FTX Listing,Curve,CRV,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-08,2021-01-07,--
+FTX Listing,DFI.Money,YFII,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-08,2021-01-07,--
+FTX Listing,Band Protocol,BAND,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-08,2021-01-07,--
+FTX Listing,Basic Attention Token,BAT,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-11,2021-01-10,--
+FTX Listing,Kusama,KSM,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-14,2021-01-13,--
+FTX Listing,Ren,REN,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-31,2021-01-30,--
+FTX Listing,Perpetual Protocol,PERP,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-03,--,--
+FTX Listing,Fantom,FTM,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-22,2021-02-22,--
+FTX Listing,Kin,KIN,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-23,2021-02-22,--
+FTX Listing,Enjin Coin,ENJ,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-25,2021-02-24,--
+FTX Listing,0x,ZRX,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-26,2021-02-25,--
+FTX Listing,Bancor,BNT,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-01,2021-02-28,--
+FTX Listing,Flow,FLOW,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-08,2021-03-07,--
+FTX Listing,Kava,KAVA,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-08,2021-03-07,--
+FTX Listing,Loopring,LRC,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-11,2021-03-10,--
+FTX Listing,Crypto.com Chain,CRO,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-24,2021-03-23,--
+FTX Listing,SKALE Network,SKL,Low,Completed,Token Listing,Centralized Exchange Listing,2021-04-03,2021-04-02,--
+FTX Listing,Orbs,ORBS,Low,Completed,Token Listing,Centralized Exchange Listing,2021-04-03,2021-04-02,--
+FTX Listing,Storj,STORJ,Low,Completed,Token Listing,Centralized Exchange Listing,2021-04-03,2021-04-02,--
+ErisX ETH Futures,Ethereum,ETH,Low,Completed,Token Listing,Centralized Exchange Listing,2020-05-10,2020-05-10,--
+Crypto.com Listing,Origin Protocol,OGN,Low,Completed,Token Listing,Centralized Exchange Listing,2020-03-26,2020-03-25,--
+Crypto.com Listing,NEAR Protocol,NEAR,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-05,2021-01-18,--
+ConsenSys Codefi Staking,Ethereum,ETH,Low,Pending,Token Listing,Staking Service Listing,2020-06-18,--,TBD
+CoinList Staking Support,Flow,FLOW,Low,Pending,Token Listing,Staking Service Listing,2020-10-22,2020-10-21,--
+CoinList Staking Support,NuCypher,NU,Low,Completed,Token Listing,Staking Service Listing,2021-02-24,2021-02-23,--
+CoinList Listing,Orchid,OXT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-04-29,2020-04-29,--
+CoinList Listing,Uniswap,UNI,Low,Completed,Token Listing,Staking Service Listing,2020-10-01,2020-09-30,--
+CoinList Listing,Filecoin,FIL,Low,Pending,Token Listing,Centralized Exchange Listing,2020-10-14,2020-10-14,--
+CoinList Listing,Compound,COMP,Low,Pending,Token Listing,Centralized Exchange Listing,2020-11-10,2020-11-09,--
+CoinList Listing,Ocean Protocol,OCEAN,Low,Pending,Token Listing,Centralized Exchange Listing,2020-11-24,2020-11-23,--
+CoinList Listing,tBTC,TBTC,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-15,2020-12-14,--
+CoinList Listing,NuCypher,NU,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-18,2020-12-17,--
+CoinList Listing,SKALE Network,SKL,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-17,2021-02-17,--
+Coinbase Staking Support,Cosmos,ATOM,Low,Completed,Token Listing,Staking Service Listing,2020-09-29,2020-09-28,--
+Coinbase Staking Support,Algorand,ALGO,Low,Completed,Token Listing,Staking Service Listing,2020-12-18,2020-12-17,--
+Coinbase Pro Listing,Orchid,OXT,Low,Completed,Token Listing,Centralized Exchange Listing,2019-12-15,2019-12-15,--
+Coinbase Pro Listing,Maker,MKR,Low,Pending,Token Listing,Centralized Exchange Listing,2020-05-28,2020-06-07,--
+Coinbase Pro Listing,Compound,COMP,Low,Completed,Token Listing,Centralized Exchange Listing,2020-06-18,2020-06-21,--
+Coinbase Pro Listing,Band Protocol,BAND,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-08-13,2020-08-09,--
+Coinbase Listing,OMG Network,OMG,Low,Completed,Token Listing,Centralized Exchange Listing,2020-05-13,2020-05-17,--
+Coinbase Listing,Algorand,ALGO,Low,Completed,Token Listing,Centralized Exchange Listing,2020-07-15,2020-07-15,--
+Coinbase Listing,Numeraire,NMR,Low,Completed,Token Listing,Centralized Exchange Listing,2020-08-20,2020-08-16,--
+Coinbase Listing,UMA,UMA,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-02,2020-09-07,--
+Coinbase Listing,Celo,CELO,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-03,2020-08-31,--
+Coinbase Listing,Uniswap,UNI,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-17,2020-09-16,--
+Coinbase Listing,yearn.finance,YFI,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-17,2020-09-09,--
+Coinbase Listing,Balancer,BAL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-07,2020-09-30,--
+Coinbase Listing,Ren,REN,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-07,2020-09-30,--
+Coinbase Listing,Bitcoin,BTC,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-21,2020-10-18,--
+Coinbase Listing,district0x,DNT,Low,Completed,Token listing,Centralized Exchange Listing,2020-11-05,2020-11-04,--
+Coinbase Listing,Civic,CVC,Low,Completed,Token Listing,Centralized Exchange listing,2020-11-05,2020-11-04,--
+Coinbase Listing,Decentraland,MANA,Low,Completed,Token Listing,Centralized Exchange Listing,2020-11-05,2020-11-04,--
+Coinbase Listing,NuCypher,NU,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-12-03,2020-11-29,--
+Coinbase Listing,Filecoin,FIL,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-12-10,2020-12-06,--
+Coinbase Listing,Bancor,BNT,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-12-15,2020-12-14,--
+Coinbase Listing,Synthetix,SNX,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-12-15,2020-12-14,--
+Coinbase Listing,Aave,AAVE,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-15,2020-12-14,--
+Coinbase Listing,The Graph,GRT,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-12-17,2020-12-16,--
+Coinbase Listing,SushiSwap,SUSHI,Low,Pending,Token Listing,Centralized Exchange Listing,2021-03-11,2021-03-08,--
+Coinbase Listing,Polygon,MATIC,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-11,2021-03-10,--
+Coinbase Listing,SKALE Network,SKL,Low,Completed,Token listing,Centralized Exchange Listing,2021-03-11,2021-03-10,--
+Coinbase Listing,Cardano,ADA,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-19,2021-03-17,--
+Coinbase Listing,Ankr Network,ANKR,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-25,2021-03-22,--
+Coinbase Listing,Storj,STORJ,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-25,2021-03-22,--
+Coinbase Listing,Curve,CRV,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-25,2021-03-22,--
+Coinbase Eth2 Staking Support,Ethereum,ETH,Medium,Pending,Token Listing,Staking Service Listing,2021-02-16,--,Q1 2021
+Coinbase Custody Support,Polkadot,DOT,Low,Completed,Token Listing,Custody Platform Listing,2020-02-08,2020-02-08,--
+Coinbase Custody Support,Compound,COMP,Medium,Completed,Token Listing,Custody Platform Listing,2020-04-15,2020-04-15,--
+Coinbase Custody Support,Origin Protocol,OGN,Low,Completed,Token Listing,Custody Platform Listing,2020-07-07,2020-07-07,--
+Coinbase Custody Support,Celo,CELO,Low,Completed,Token Listing,Custody Platform Listing,2020-08-04,2020-08-03,--
+Coinbase Custody Support,Solana,SOL,Low,Completed,Token Listing,Custody Platform Listing,2020-08-18,2020-08-17,--
+Coinbase Custody Support,Enjin Coin,ENJ,Low,Completed,Token Listing,Custody Platform Listing,2020-09-18,2020-09-16,--
+Coinbase Custody Support,Synthetix,SNX,Low,Completed,Token Listing,Custody Platform Listing,2020-09-18,2020-09-17,--
+Coinbase Custody Support,Balancer,BAL,Low,Completed,Token Listing,Custody Platform Listing,2020-09-24,2020-09-23,--
+Coinbase Custody Support,Filecoin,FIL,Low,Completed,Token Listing,Custody Platform Listing,2020-10-15,2020-10-14,--
+Coinbase Custody Support,NuCypher,NU,Low,Completed,Token Listing,Custody Platform Listing,2020-12-03,2020-12-02,--
+Coinbase Custody Support,Curve,CRV,Low,Completed,Token Listing,Custody Platform Listing,2020-12-03,2020-12-02,--
+Coinbase Custody Support,Ren,REN,Low,Completed,Token Listing,Custody Platform Listing,2020-12-03,2020-12-02,--
+Coinbase Custody Support,Wrapped Bitcoin,WBTC,Low,Completed,Token Listing,Custody Platform Listing,2020-12-03,2020-12-02,--
+Coinbase Custody Support,tBTC,TBTC,Low,Completed,Token Listing,Custody Platform Listing,2020-12-03,2020-12-02,--
+Coinbase Custody Support,DFI.Money,YFII,Low,Completed,Token Listing,Custody Platform Listing,2020-12-03,2020-12-02,--
+Coinbase Custody Support,Amp,AMP,Low,Completed,Token Listing,Custody Platform Listing,2020-12-08,2020-12-07,--
+Coinbase Custody Support,Wrapped Nexus Mutual,WNXM,Low,Completed,Token Listing,Custody Platform Listing,2020-12-18,2020-12-17,--
+Coinbase Custody Support,Rally,RLY,Low,Completed,Token Listing,Custody Platform Listing,2021-01-19,2021-01-18,--
+Coinbase Custody Support,Ankr Network,ANKR,Low,Completed,Token Listing,Custody Platform Listing,2021-01-19,2021-01-19,--
+Coinbase Custody Support,Meta,MTA,Low,Completed,Token Listing,Custody Platform Listing,2021-01-22,2021-01-21,--
+Coinbase Custody Support,SKALE Network,SKL,Low,Completed,Token Listing,Custody Platform Listing,2021-01-26,2021-01-25,--
+Coinbase Custody Support,Elrond,EGLD,Low,Completed,Token Listing,Custody Platform Listing,2021-01-27,2021-01-26,--
+Coinbase Custody Support,Fantom,FTM,Low,Completed,Token Listing,Custody Platform Listing,2021-01-27,2021-01-26,--
+Coinbase Custody Support,NKN,NKN,Low,Completed,Token Listing,Custody Platform Listing,2021-01-27,2021-01-26,--
+Coinbase Custody Support,SushiSwap,SUSHI,Low,Completed,Token Listing,Custody Platform Listing,2021-02-11,2021-02-10,--
+Coinbase Custody Support,UTRUST,UTK,Low,Completed,Token Listing,Custody Platform Listing,2021-02-11,2021-02-10,--
+Coinbase Custody Support,Request Network,REQ,Low,Completed,Token Listing,Custody Platform Listing,2021-02-22,2021-02-21,--
+Coinbase Custody Support,Render Token,RNDR,Low,Completed,Token Listing,Custody Platform Listing,2021-03-23,2021-03-22,--
+Coinbase Custody Staking Support,Polkadot,DOT,Low,Completed,Token Listing,Staking Service Listing,2020-04-13,2020-04-13,--
+Coinbase Custody Staking Support,Algorand,ALGO,Low,Completed,Token Listing,Staking Service Listing,2020-05-19,2020-05-19,--
+Coinbase Custody Staking Support,Cardano,ADA,Low,Pending,Token Listing,Staking Service Listing,2020-07-05,--,2020
+Coinbase Custody Staking Support,Solana,SOL,Low,Completed,Token Listing,Staking Service Listing,2020-08-27,2020-08-26,--
+Coinbase Custody Listing,Cosmos,ATOM,Low,Completed,Token Listing,Custody Platform Listing,2020-03-05,2020-03-02,--
+Coinbase Custody Governance Support,Uniswap,UNI,Low,Completed,Token Listing,Custody Platform Listing,2020-09-17,2020-09-16,--
+CME Futures Launch,Ethereum,ETH,High,Completed,Token Listing,Centralized Exchange Listing,2021-02-07,2021-02-07,--
+Blockchain.com Wallet Support,Algorand,ALGO,Low,Completed,Token Listing,Wallet Integration,2020-08-18,2020-08-17,--
+Blockchain.com Exchange Listing,yearn.finance,YFI,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-09,2020-09-08,--
+Blockchain.com Exchange Listing,Aave,AAVE,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-09,2020-09-08,--
+Blockchain.com Exchange Listing,Stacks,STX,Low,Pending,Token Listing,Centralized Exchange Listing,2021-01-15,--,TBD
+Bitwise Decentralized Finance Crypto Index,SushiSwap,SUSHI,Low,Completed,Token Listing,Centralized Exchange Listing,2021-04-02,2021-03-31,--
+Bitwise 10 Large Cap Crypto Index Rebalance,Cosmos,ATOM,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-01,2021-02-28,--
+Bitwise 10 Large Cap Crypto Index,Aave,AAVE,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-29,2021-01-28,--
+Bitwise 10 Large Cap Crypto Index,Uniswap,UNI,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-29,2021-01-28,--
+Bittrex Market Removals,Zcash,ZEC,Medium,Pending,Token Listing,Centralized Exchange Listing,2021-01-03,2021-01-14,--
+Bittrex Listing,Algorand,ALGO,Low,Completed,Token Listing,Centralized Exchange Listing,2020-05-19,2020-05-18,--
+Bittrex Listing,Polygon,MATIC,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-10,2020-09-08,--
+Bittrex Global Listing,Orchid,OXT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-04-08,2020-04-08,--
+Bittrex Global Listing,Algorand,ALGO,Low,Completed,Token Listing,Centralized Exchange Listing,2020-04-09,2020-04-07,--
+Bittrex Global Listing,Handshake,HNS,Low,Completed,Token Listing,Centralized Exchange Listing,2020-05-26,2020-05-26,--
+Bittrex Global Listing,Kadena,KDA,Low,Completed,Token Listing,Centralized Exchange Listing,2020-06-29,2020-06-28,--
+Bitstamp Listing,Chainlink,LINK,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-12,2020-10-18,--
+Bitstamp Listing,USD Coin,USDC,Low,Pending,Token Listing,Centralized Exchange Listing,2020-10-12,2020-10-18,--
+Bitstamp Listing,OMG Network,OMG,Low,Pending,Token Listing,Centralized Exchange Listing,2020-10-12,2020-10-25,--
+Bitstamp Listing,0x,ZRX,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-02,2021-03-01,--
+Bitstamp Listing,Maker,MKR,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-03,2021-03-02,--
+Bitstamp Listing,Kyber Network,KNC,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-04,2021-03-03,--
+Bitstamp Listing,Dai,DAI,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-09,2021-03-08,--
+Bithumb Staking Support,Orbs,ORBS,Low,Completed,Token Listing,Staking Service Listing,2021-03-22,2021-03-21,--
+Bithumb Listing,Algorand,ALGO,Low,Completed,Token Listing,Centralized Exchange Listing,2020-07-30,2020-07-29,--
+Bithumb Listing,Tezos,XTZ,Low,Completed,Token Listing,Centralized Exchange Listing,2020-08-21,2020-08-18,--
+Bithumb Listing,Orchid,OXT,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-19,2021-02-18,--
+Bithumb Listing,NuCypher,NU,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-22,2021-02-21,--
+Bithumb Global Listing,Kin,KIN,Low,Completed,Token Listing,Centralized Exchange Listing,2020-07-07,2020-07-07,--
+BitGo Custody Support,SushiSwap,SUSHI,Low,Completed,Token Listing,Custody Platform Listing,2021-02-05,2021-02-04,--
+Bitfinex Staking Support,EOS,EOS,Low,Completed,Token Listing,Staking Service Listing,2020-04-06,2020-04-06,--
+Bitfinex Staking Support,Polkadot,DOT,Low,Completed,Token Listing,Staking Service Listing,2020-10-21,2020-10-21,--
+Bitfinex Listing,Cardano,ADA,Low,Completed,Token Listing,Centralized Exchange Listing,2020-08-06,2020-08-05,--
+Bitfinex Listing,Fetch.ai,FET,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-08-18,2020-08-26,--
+Bitfinex Listing,Avalanche,AVAX,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-22,2020-09-22,--
+Bitfinex Listing,Band Protocol,BAND,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-24,2020-09-23,--
+Bitfinex Listing,yearn.finance,YFI,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-04,2020-10-02,--
+Bitfinex Listing,Balancer,BAL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-05,2020-10-03,--
+Bitfinex listing,Filecoin,FIL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-10-16,2020-10-14,--
+Bitfinex Listing,Aave,AAVE,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-03,2021-02-04,--
+Bitfinex Listing,Solana,SOL,Low,Completed,Token Listing,Centralized Exchange Listing,2021-02-24,2021-02-23,--
+Bitfinex Listing,SUKU,SUKU,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-26,2021-03-25,--
+Bitfinex Eth2 Staking Support,Ethereum,ETH,Low,Completed,Token Listing,Staking Service Listing,2021-01-21,2020-12-22,--
+Binance.US Staking Support,Tezos,XTZ,Low,Completed,Token Listing,Staking Service Listing,2020-04-15,2020-04-15,--
+Binance.US Listing,Tezos,XTZ,Low,Completed,Token Listing,Centralized Exchange Listing,2020-03-15,2020-03-15,--
+Binance.US Listing,OMG Network,OMG,Low,Completed,Token Listing,Centralized Exchange Listing,2020-05-28,2020-05-28,--
+Binance.US Listing,Polygon,MATIC,Low,Completed,Token Listing,Centralized Exchange Listing,2020-06-02,2020-06-04,--
+Binance.US Listing,Helium,HNT,Low,Pending,Token Listing,Centralized Exchange Listing,2020-08-17,2020-08-17,--
+Binance.US Listing,Maker,MKR,Low,Completed,Token Listing,Centralized Exchange Listing,2020-08-20,2020-08-19,--
+Binance.US Listing,Storj,STORJ,Low,Pending,Token Listing,Centralized Exchange Listing,2020-09-01,2020-09-01,--
+Binance.US Listing,Orchid,OXT,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-09-24,2020-09-24,--
+Binance U.S Listing,Decentraland,MANA,Low,Completed,Token Listing,Centralized Exchange Listing,2020-08-13,--,--
+Binance U.S Listing,Band Protocol,BAND,Low,Pending,Token Listing,Centralized Exchange Listing,2020-08-27,2020-08-27,--
+Binance Staking Support,Zilliqa,ZIL,Low,Pending,Token Listing,Staking Service Listing,2020-06-26,2020-06-25,--
+Binance Staking Support,yearn.finance,YFI,Low,Completed,Token Listing,Staking Service Listing,2021-01-07,2021-01-06,--
+Binance Staking Support,Solana,SOL,Low,Completed,Token Listing,Staking Service Listing,2021-02-25,2021-02-24,--
+Binance Staking Support,Origin Protocol,OGN,Low,Completed,Token Listing,Staking Service Listing,2021-03-04,2021-03-03,--
+Binance Lists Ocean Protocol,Ocean Protocol,OCEAN,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-08-17,2020-08-16,--
+Binance Listing,Synthetix,SNX,Low,Completed,Token Listing,Centralized Exchange Listing,2020-07-08,2020-07-08,--
+Binance Listing,Aragon Network,ANT,Low,In-Progress,Token Listing,Centralized Exchange Listing,2020-08-12,2020-08-12,--
+Binance Listing,Polkadot,DOT,Low,Pending,Token Listing,Centralized Exchange Listing,2020-08-18,2020-08-17,--
+Binance Listing,UMA,UMA,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-09,2020-09-08,--
+Binance Listing,Uniswap,UNI,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-17,2020-09-15,--
+Binance Listing,Solana,SOL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-17,2020-09-16,--
+Binance Listing,Orchid,OXT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-21,2020-09-20,--
+Binance Listing,Avalanche,AVAX,Low,Completed,Token Listing,Centralized Exchange Listing,2020-09-22,2020-09-21,--
+Binance Listing,NEAR Protocol,NEAR,Low,Completed,Token listing,Centralized Exchange Listing,2020-10-14,2020-10-13,--
+Binance Listing,Oasis Network,ROSE,Low,Completed,Token Listing,Centralized Exchange Listing,2020-11-19,2020-11-18,--
+Binance Listing,SKALE Network,SKL,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-01,2020-11-30,--
+Binance Listing,The Graph,GRT,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-17,2020-12-16,--
+Binance Listing,1inch,1INCH,Low,Completed,Token Listing,Centralized Exchange Listing,2020-12-24,2020-12-24,--
+Binance Listing,Celo,CELO,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-04,2021-01-04,--
+Binance Listing,Nervos Network,CKB,Low,Completed,Token Listing,Centralized Exchange Listing,2021-01-26,2021-01-25,--
+Binance Listing,Perpetual Protocol,PERP,Low,Completed,Token Listing,Centralized Exchange Listing,2021-03-19,2021-03-18,--
+Anchorage Custody Support,Keep Network,KEEP,Low,Completed,Token Listing,Custody Platform Listing,2020-06-24,2020-06-24,--
+Anchorage Custody Support,Oasis Network,ROSE,Low,Pending,Token Listing,Custody Platform Listing,2020-09-11,2020-09-09,--
